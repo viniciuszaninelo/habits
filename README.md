@@ -1,6 +1,6 @@
 # habits
  
 work!
-[X]back-end
-[]front-end
-[]mobile
+[X]back-end <br />
+[]front-end<br />
+[]mobile<br />
