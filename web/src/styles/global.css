@@ -1,3 +1,34 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+body {
+  background:#09090A;
+}
+
+.swal-title {
+  color: #000000;
+  font-size: 1.6rem;
+  margin-bottom: 28px;
+}
+.swal-text {
+  font-size: 1rem;
+  display: block;
+  margin: 10px;
+  text-align: center;
+  color:  rgb(161 161 170);
+}
+
+
+.swal-footer {
+  margin-top: 32px;
+  overflow: hidden;
+}
+
+.swal-button {
+  padding: 10px 30px;
+  border-radius: 2px;
+  background-color: rgb(22 163 74);
+  font-size: 12px;
+}
