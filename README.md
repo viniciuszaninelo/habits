@@ -6,6 +6,12 @@ work!<br />
 [X] front-end<br />
 [] mobile<br />
 
+<h2>Desktop view</h2>
+  <p align="center">
+   <img width="850" height="500" src="https://github.com/viniciusmarquezaninelo/habits/blob/main/v%C3%ADdeo-aplica%C3%A7%C3%A3o-web.gif" alt="desktop view" />
+  </p>
+
+
 # Technologies
 - React
 - Tailwind
@@ -16,4 +22,7 @@ work!<br />
 - Axios
 
 # Entidades e Relacionamentos
-![Preview](https://github.com/viniciusmarquezaninelo/habits/blob/main/entidades-e-relacionamentos.png)
+ <p align="center">
+  <img width="850" height="500" src="https://github.com/viniciusmarquezaninelo/habits/blob/main/entidades-e-relacionamentos.png" alt="desktop view" />
+ </p>
+ 
