@@ -8,7 +8,7 @@ interface ProgressBarProps {
 export function ProgressBar(props: ProgressBarProps) {
   return (
     <div>
-    <Progress.Root className='h-3 rounded-xl bg-zinc-700 w-full mt-4'>
+    <Progress.Root className='h-3 rounded-xl bg-zinc-700 w-full mt-4 transition-all'>
       <Progress.Indicator 
         aria-aria-valuenow={props.progress} 
         className='bg-violet-600 w-full h-full rounded-full transition-transform duration-[660ms] ease-[cubic-bezier(0.65, 0, 0.35, 1)]'
@@ -18,6 +18,5 @@ export function ProgressBar(props: ProgressBarProps) {
         />
     </Progress.Root>
     </div>
-
   )
 }
