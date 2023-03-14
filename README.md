@@ -13,7 +13,7 @@ work!<br />
 
 
 # Technologies
-- React
+- [ReactJS](https://reactjs.org/) - A JavaScript library for building user interfaces 
 - Tailwind
 - Fastify
 - Node
