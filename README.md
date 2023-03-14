@@ -22,8 +22,10 @@ work!<br />
 - React Native
 - Axios
 
-# Entidades e Relacionamentos
+# Entities and Relationships
  <p align="center">
   <img width="850" height="500" src="https://github.com/viniciusmarquezaninelo/habits/blob/main/entidades-e-relacionamentos.png" alt="desktop view" />
  </p>
  
+ ## Authors 
+Vinícius Marques Zaninelo - [Linkedin](https://www.linkedin.com/in/vin%C3%ADciuszaninelo/)
