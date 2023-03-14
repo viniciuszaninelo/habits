@@ -17,6 +17,7 @@ work!<br />
 - Tailwind
 - Fastify
 - Node
+- SQL
 - Prisma
 - React Native
 - Axios
