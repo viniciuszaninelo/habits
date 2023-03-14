@@ -13,14 +13,14 @@ work!<br />
 
 
 # Technologies
-- [ReactJS](https://reactjs.org/) - A JavaScript library for building user interfaces 
-- Tailwind
-- Fastify
-- Node
-- SQL
-- Prisma
-- React Native
-- Axios
+-  [ReactJS](https://reactjs.org/)
+-  [Tailwind](https://tailwindcss.com/) 
+-  [Fastify](https://www.fastify.io/) 
+-  [Node](https://nodejs.org/en/) 
+-  [SQLite](https://www.sqlite.org/index.html) 
+-  [Prisma](https://www.prisma.io/)
+-  [React Native](https://reactnative.dev/) 
+-  [Axios](https://axios-http.com/ptbr/docs/intro)
 
 # Entities and Relationships
  <p align="center">
