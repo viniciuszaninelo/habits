@@ -1,11 +1,4 @@
 # habits
- 
-work!<br />
-
-[X] back-end <br />
-[X] front-end<br />
-[] mobile<br />
-
 Funcionabilidades para serem adicionadas: <br />
 [ ] Rota para deletar um hábito<br />
 [ ] Editar hábito<br />
