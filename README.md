@@ -1,11 +1,4 @@
 # habits
- 
-work!<br />
-
-[X] back-end <br />
-[X] front-end<br />
-[] mobile<br />
-
 Funcionabilidades para serem adicionadas: <br />
 [ ] Rota para deletar um hábito<br />
 [ ] Editar hábito<br />
@@ -14,7 +7,9 @@ Funcionabilidades para serem adicionadas: <br />
   <p align="center">
    <img width="850" height="500" src="https://github.com/viniciusmarquezaninelo/habits/blob/main/v%C3%ADdeo-aplica%C3%A7%C3%A3o-web.gif" alt="desktop view" />
   </p>
-
+  
+# About
+<p> habits is a program where the user manages to register his habits, where later, he can mark as completed, edit or delete each information, making it help in the organization of his routine </p>
 
 # Technologies
 -  [ReactJS](https://reactjs.org/)
