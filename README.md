@@ -19,6 +19,7 @@ Funcionabilidades para serem adicionadas: <br />
 -  [SQLite](https://www.sqlite.org/index.html) 
 -  [Prisma](https://www.prisma.io/)
 -  [React Native](https://reactnative.dev/) 
+-  [NativeWind](https://www.nativewind.dev/) 
 -  [Axios](https://axios-http.com/ptbr/docs/intro)
 
 # Entities and Relationships
