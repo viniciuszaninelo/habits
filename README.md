@@ -1,7 +1,4 @@
 # habits
-Funcionabilidades para serem adicionadas: <br />
-[ ] Rota para deletar um hábito<br />
-[ ] Editar hábito<br />
 <br />
 <h2>Desktop view</h2>
   <p align="center">
